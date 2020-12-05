@@ -15,3 +15,13 @@ I am currently working on some projects:
 ![My Dotfiles](https://img.shields.io/static/v1?label=Dotfiles&color=green&style=for-the-badge&logo=linux&link=https://github.com/Woomy4680-exe/dotfiles&message=GITHUB)
 
 ![My Website](https://img.shields.io/static/v1?label=Website&color=orange&style=for-the-badge&logo=html5&link=https://woomy4680-exe.github.io&message=WEBSITE)
+
+## What I use 🔨
+### Languages
+![Rust](https://img.shields.io/static/v1?label=&color=red&style=for-the-badge&logo=rust&message=Rust&labelColor=grey)
+
+![JavaScript](https://img.shields.io/static/v1?label=&color=yellow&style=for-the-badge&logo=javascript&message=JavaScript&labelColor=grey)
+
+![TypeScript](https://img.shields.io/static/v1?label=&color=blue&style=for-the-badge&logo=typescript&message=TypeScript&labelColor=grey)
+
+
