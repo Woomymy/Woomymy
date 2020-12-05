@@ -25,3 +25,10 @@ I am currently working on some projects:
 ![TypeScript](https://img.shields.io/static/v1?label=&color=blue&style=for-the-badge&logo=typescript&message=TypeScript&labelColor=grey)
 
 ![Bash](https://img.shields.io/static/v1?label=&color=green&style=for-the-badge&logo=linux&message=Bash&labelColor=grey)
+
+![Powershell](https://img.shields.io/static/v1?label=&color=blue&style=for-the-badge&logo=powershell&message=Powershell&labelColor=grey)
+
+![HTML](https://img.shields.io/static/v1?label=&color=red&style=for-the-badge&logo=html5&message=HTML&labelColor=grey)
+
+![CSS](https://img.shields.io/static/v1?label=&color=9cf&style=for-the-badge&logo=css3&message=CSS&labelColor=grey)
+
