@@ -4,17 +4,17 @@ Hello, I'm Woomy, a passionate Belgian developper that loves discovering new thi
 ## Projects 🔧
 I am currently working on some projects:
 
-![DetectionHSL](https://img.shields.io/static/v1?label=DetectionHSL&color=green&style=for-the-badge&logo=powershell&link=https://github.com/DetectionHSL&message=GITHUB)
+[![DetectionHSL](https://img.shields.io/static/v1?label=DetectionHSL&color=green&style=for-the-badge&logo=powershell&link=https://github.com/DetectionHSL&message=GITHUB)](https://github.com/DetectionHSL)
 
-![DiscordJS-moka](https://img.shields.io/static/v1?label=DiscordJS-moka&color=lightblue&style=for-the-badge&logo=typescript&link=https://github.com/discordjs-moka/moka&message=GITHUB)
+[![DiscordJS-moka](https://img.shields.io/static/v1?label=DiscordJS-moka&color=lightblue&style=for-the-badge&logo=typescript&link=https://github.com/discordjs-moka/moka&message=GITHUB)](https://github.com/Discordjs-moka)
 
-![Woomy-Overlay](https://img.shields.io/static/v1?label=Woomy-Overlay&color=purple&style=for-the-badge&logo=gentoo&link=https://github.com/woomy4680-exe/Woomy-Overlay&message=GITHUB)
+[![Woomy-Overlay](https://img.shields.io/static/v1?label=Woomy-Overlay&color=purple&style=for-the-badge&logo=gentoo&link=https://github.com/woomy4680-exe/Woomy-Overlay&message=GITHUB)](https://github.com/Woomy4680-exe/Woomy-Overlay)
 
-![My Blog](https://img.shields.io/static/v1?label=Blog&color=yellow&style=for-the-badge&logo=markdown&link=https://woomy4680-exe.github.io/blog&message=WEBSITE)
+[![My Blog](https://img.shields.io/static/v1?label=Blog&color=yellow&style=for-the-badge&logo=markdown&link=https://woomy4680-exe.github.io/blog&message=WEBSITE)](https://woomy4680-exe.github.io/blog)
   
-![My Dotfiles](https://img.shields.io/static/v1?label=Dotfiles&color=green&style=for-the-badge&logo=linux&link=https://github.com/Woomy4680-exe/dotfiles&message=GITHUB)
+[![My Dotfiles](https://img.shields.io/static/v1?label=Dotfiles&color=green&style=for-the-badge&logo=linux&link=https://github.com/Woomy4680-exe/dotfiles&message=GITHUB)](https://github.com/Woomy4680-exe/Dotfiles)
 
-![My Website](https://img.shields.io/static/v1?label=Website&color=orange&style=for-the-badge&logo=html5&link=https://woomy4680-exe.github.io&message=WEBSITE)
+[![My Website](https://img.shields.io/static/v1?label=Website&color=orange&style=for-the-badge&logo=html5&link=https://woomy4680-exe.github.io&message=WEBSITE)](https://woomy4680-exe.github.io)
 
 ## What I use 🔨
 
