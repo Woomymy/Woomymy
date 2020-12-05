@@ -17,6 +17,9 @@ I am currently working on some projects:
 [![My Website](https://img.shields.io/static/v1?label=Website&color=orange&style=for-the-badge&logo=html5&link=https://woomy4680-exe.github.io&message=WEBSITE)](https://woomy4680-exe.github.io)
 
 ## What I use 🔨
+[![GNU/Linux](https://img.shields.io/static/v1?label=&color=yellow&style=for-the-badge&logo=linux&message=GNU/Linux&labelColor=grey)](https://kernel.org) [![Calculate Linux](https://img.shields.io/static/v1?label=&color=orange&style=for-the-badge&logo=gentoo&message=Calculate-Linux&labelColor=grey)](https://calculate-linux.org)
+
+[![Git](https://img.shields.io/static/v1?label=&color=white&style=for-the-badge&logo=git&message=Git&labelColor=grey)](https://git-scm.org)
 
 [![Rust](https://img.shields.io/static/v1?label=&color=red&style=for-the-badge&logo=rust&message=Rust&labelColor=grey)](https://rust-lang.org)
 
