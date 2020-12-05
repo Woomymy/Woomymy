@@ -32,3 +32,9 @@ I am currently working on some projects:
 
 ![Neovim](https://img.shields.io/static/v1?label=&color=177013&style=for-the-badge&logo=vim&message=Neovim&labelColor=grey)
 ![Visual Studio Code](./Images/vscode.svg)
+
+## Stats 📉
+![Stats](https://github-readme-stats.vercel.app/api?username=Woomy4680-exe&show_icons=true&theme=cobalt)
+
+![Top](https://github-readme-stats.vercel.app/api/top-langs/?username=Woomy4680-exe&layout=compact)
+*Note: This **doesn't** includes organizations stats*
