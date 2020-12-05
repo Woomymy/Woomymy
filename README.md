@@ -32,3 +32,6 @@ I am currently working on some projects:
 
 ![CSS](https://img.shields.io/static/v1?label=&color=9cf&style=for-the-badge&logo=css3&message=CSS&labelColor=grey)
 
+![Neovim](https://img.shields.io/static/v1?label=&color=177013&style=for-the-badge&logo=vim&message=Neovim&labelColor=grey)
+
+![Visual Studio Code](https://img.shields.io/static/v1?label=&color=blue&style=for-the-badge&logo=&message=VSCode&labelColor=grey)
