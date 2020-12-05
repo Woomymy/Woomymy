@@ -10,4 +10,8 @@ I am currently working on some projects:
 
 ![Woomy-Overlay](https://img.shields.io/static/v1?label=Woomy-Overlay&color=purple&style=for-the-badge&logo=gentoo&link=https://github.com/woomy4680-exe/Woomy-Overlay&message=GITHUB)
 
-![My Blog](https://img.shields.io/static/v1?label=Blog&color=yellow&style=for-the-badge&logo=markdown&link=https://github.com/Woomy4680-exe/blog&message=GITHUB)
+![My Blog](https://img.shields.io/static/v1?label=Blog&color=yellow&style=for-the-badge&logo=markdown&link=https://woomy4680-exe.github.io/blog&message=WEBSITE)
+  
+![My Dotfiles](https://img.shields.io/static/v1?label=Dotfiles&color=green&style=for-the-badge&logo=linux&link=https://github.com/Woomy4680-exe/dotfiles&message=GITHUB)
+
+![My Website](https://img.shields.io/static/v1?label=Website&color=orange&style=for-the-badge&logo=html&link=https://woomy4680-exe.github.io&message=WEBSITE)
