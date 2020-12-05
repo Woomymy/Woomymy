@@ -24,7 +24,7 @@ I am currently working on some projects:
 
 ![TypeScript](https://img.shields.io/static/v1?label=&color=blue&style=for-the-badge&logo=typescript&message=TypeScript&labelColor=grey)
 
-![Bash](https://img.shields.io/static/v1?label=&color=green&style=for-the-badge&logo=linux&message=Bash&labelColor=grey)
+![Bash](./Images/bash.svg)
 
 ![Powershell](https://img.shields.io/static/v1?label=&color=blue&style=for-the-badge&logo=powershell&message=Powershell&labelColor=grey)
 
@@ -34,4 +34,4 @@ I am currently working on some projects:
 
 ![Neovim](https://img.shields.io/static/v1?label=&color=177013&style=for-the-badge&logo=vim&message=Neovim&labelColor=grey)
 
-![Visual Studio Code](https://img.shields.io/static/v1?label=&color=blue&style=for-the-badge&logo=&message=VSCode&labelColor=grey)
+![Visual Studio Code](./Images/vscode.svg)
