@@ -21,19 +21,14 @@ I am currently working on some projects:
 ![Rust](https://img.shields.io/static/v1?label=&color=red&style=for-the-badge&logo=rust&message=Rust&labelColor=grey)
 
 ![JavaScript](https://img.shields.io/static/v1?label=&color=yellow&style=for-the-badge&logo=javascript&message=JavaScript&labelColor=grey)
-
 ![TypeScript](https://img.shields.io/static/v1?label=&color=blue&style=for-the-badge&logo=typescript&message=TypeScript&labelColor=grey)
 
 ![Bash](./Images/bash.svg)
-
 ![Powershell](https://img.shields.io/static/v1?label=&color=blue&style=for-the-badge&logo=powershell&message=Powershell&labelColor=grey)
 
 ![HTML](https://img.shields.io/static/v1?label=&color=red&style=for-the-badge&logo=html5&message=HTML&labelColor=grey)
-
 ![CSS](https://img.shields.io/static/v1?label=&color=9cf&style=for-the-badge&logo=css3&message=CSS&labelColor=grey)
-
 ![Vue.JS](https://img.shields.io/static/v1?label=&color=green&style=for-the-badge&logo=vue.js&message=Vue.JS&labelColor=grey)
 
 ![Neovim](https://img.shields.io/static/v1?label=&color=177013&style=for-the-badge&logo=vim&message=Neovim&labelColor=grey)
-
 ![Visual Studio Code](./Images/vscode.svg)
