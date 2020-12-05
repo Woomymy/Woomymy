@@ -32,6 +32,8 @@ I am currently working on some projects:
 
 ![CSS](https://img.shields.io/static/v1?label=&color=9cf&style=for-the-badge&logo=css3&message=CSS&labelColor=grey)
 
+![Vue.JS](https://img.shields.io/static/v1?label=&color=green&style=for-the-badge&logo=vue.js&message=Vue.JS&labelColor=grey)
+
 ![Neovim](https://img.shields.io/static/v1?label=&color=177013&style=for-the-badge&logo=vim&message=Neovim&labelColor=grey)
 
 ![Visual Studio Code](./Images/vscode.svg)
