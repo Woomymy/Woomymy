@@ -40,4 +40,5 @@ I am currently working on some projects:
 ![Stats](https://github-readme-stats.vercel.app/api?username=Woomy4680-exe&show_icons=true&theme=cobalt)
 
 ![Top](https://github-readme-stats.vercel.app/api/top-langs/?username=Woomy4680-exe&layout=compact)
+
 *Note: This **doesn't** includes organizations stats*
