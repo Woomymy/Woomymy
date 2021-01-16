@@ -12,7 +12,7 @@ I am currently working on some projects:
 
 [![My Blog](https://img.shields.io/static/v1?label=Blog&color=yellow&style=for-the-badge&logo=markdown&link=https://woomy4680-exe.github.io/blog&message=WEBSITE)](https://woomy4680-exe.github.io/blog)
   
-[![My Dotfiles](https://img.shields.io/static/v1?label=Dotfiles&color=green&style=for-the-badge&logo=linux&link=https://github.com/Woomy4680-exe/dotfiles&message=GITHUB)](https://github.com/Woomy4680-exe/Dotfiles)
+[![My Dotfiles](https://img.shields.io/static/v1?label=Dotfiles&color=green&style=for-the-badge&logo=linux&link=https://github.com/Woomy4680-exe/dotfiles-portable&message=GITHUB)](https://github.com/Woomy4680-exe/Dotfiles-Portable)
 
 [![My Website](https://img.shields.io/static/v1?label=Website&color=orange&style=for-the-badge&logo=html5&link=https://woomy4680-exe.github.io&message=WEBSITE)](https://woomy4680-exe.github.io)
 
