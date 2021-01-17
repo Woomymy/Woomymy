@@ -48,7 +48,7 @@ I am currently working on some projects:
 ## Contact 📞
 This is where you can contact me:
 
-![Discord](https://img.shields.io/static/v1?label=&color=blue&style=for-the-badge&logo=discord&message=Woomy&labelColor=lightblue)
+[![Discord](https://img.shields.io/static/v1?label=&color=blue&style=for-the-badge&logo=discord&message=Woomy&labelColor=lightblue)](https://discord.gg/vHqy6YQ7jn)
 
 ![Email](https://img.shields.io/static/v1?label=&color=orange&style=for-the-badge&logo=gmail&message=contact@woomy.ovh&labelColor=yellow)
 
