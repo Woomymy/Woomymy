@@ -1,7 +1,9 @@
-# Hello, I'm Woomy <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+# Hello, I'm Woomy 👋
+
 Hello, I'm Woomy, a passionate Belgian developper that loves discovering new things.
 
 ## Projects 🔧
+
 I am currently working on some projects:
 
 [![DetectionHSL](https://img.shields.io/static/v1?label=DetectionHSL&color=green&style=for-the-badge&logo=powershell&link=https://github.com/DetectionHSL&message=GITHUB)](https://github.com/DetectionHSL)
@@ -19,6 +21,7 @@ I am currently working on some projects:
 [![RTL88X2BU](https://img.shields.io/static/v1?label=RTL88X2BU-Debian&color=red&style=for-the-badge&logo=debian&link=https://github.com/Woomy4680-exe/RTL88x2BU-Debian&message=GITHUB)](https://github.com/Woomy4680-exe/RTL88x2BU-Debian)
 
 ## What I use 🔨
+
 [![GNU/Linux](https://img.shields.io/static/v1?label=&color=yellow&style=for-the-badge&logo=linux&message=GNU/Linux&labelColor=grey)](https://kernel.org) [![Calculate Linux](https://img.shields.io/static/v1?label=&color=orange&style=for-the-badge&logo=gentoo&message=Calculate-Linux&labelColor=grey)](https://calculate-linux.org)
 
 [![Git](https://img.shields.io/static/v1?label=&color=white&style=for-the-badge&logo=git&message=Git&labelColor=grey)](https://git-scm.org)
@@ -39,6 +42,7 @@ I am currently working on some projects:
 [![Visual Studio Code](./Images/vscode.svg)](https://code.visualstudio.com)
 
 ## Stats 📉
+
 ![Stats](https://github-readme-stats.vercel.app/api?username=Woomy4680-exe&show_icons=true&theme=cobalt)
 
 ![Top](https://github-readme-stats.vercel.app/api/top-langs/?username=Woomy4680-exe&layout=compact)
@@ -46,6 +50,7 @@ I am currently working on some projects:
 *Note: This **doesn't** includes organizations stats*
 
 ## Contact 📞
+
 This is where you can contact me:
 
 [![Discord](https://img.shields.io/static/v1?label=&color=blue&style=for-the-badge&logo=discord&message=Woomy&labelColor=lightblue)](https://discord.gg/vHqy6YQ7jn)
