@@ -8,7 +8,9 @@ I am currently working on some projects:
 
 [![DetectionHSL](https://img.shields.io/static/v1?label=DetectionHSL&color=green&style=for-the-badge&logo=powershell&link=https://github.com/DetectionHSL&message=GITHUB)](https://github.com/DetectionHSL)
 
-[![KelpDot](https://img.shields.io/static/v1?label=KelpDot&color=red&style=for-the-badge&logo=rust&message=KELPDOT)](https://github.com/Woomy4680-exe/kelp)
+[![KelpDot](https://img.shields.io/static/v1?label=KelpDot&color=red&style=for-the-badge&logo=rust&message=GITHUB)](https://github.com/Woomy4680-exe/kelp)
+
+[![Todo-vue](https://img.shields.io/static/v1?label=Todo-vue&color=green&style=for-the-badge&logo=vue.js&message=WEBSITE)](https://woomy4680-exe.github.io/todo-vue)
 
 [![DiscordJS-moka](https://img.shields.io/static/v1?label=DiscordJS-moka&color=lightblue&style=for-the-badge&logo=typescript&link=https://github.com/discordjs-moka/moka&message=GITHUB)](https://github.com/Discordjs-moka)
 
