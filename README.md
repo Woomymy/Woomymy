@@ -8,6 +8,8 @@ I am currently working on some projects:
 
 [![DetectionHSL](https://img.shields.io/static/v1?label=DetectionHSL&color=green&style=for-the-badge&logo=powershell&link=https://github.com/DetectionHSL&message=GITHUB)](https://github.com/DetectionHSL)
 
+[![KelpDot](https://img.shields.io/static/v1?label=KelpDot&color=red&style=for-the-badge&logo=rust&message=KELPDOT)](https://github.com/Woomy4680-exe/kelp)
+
 [![DiscordJS-moka](https://img.shields.io/static/v1?label=DiscordJS-moka&color=lightblue&style=for-the-badge&logo=typescript&link=https://github.com/discordjs-moka/moka&message=GITHUB)](https://github.com/Discordjs-moka)
 
 [![Woomy-Overlay](https://img.shields.io/static/v1?label=Woomy-Overlay&color=purple&style=for-the-badge&logo=gentoo&link=https://github.com/woomy4680-exe/Woomy-Overlay&message=GITHUB)](https://github.com/Woomy4680-exe/Woomy-Overlay)
