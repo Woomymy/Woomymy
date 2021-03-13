@@ -49,7 +49,7 @@ I am currently working on some projects:
 
 ![Stats](https://github-readme-stats.vercel.app/api?username=Woomy4680-exe&show_icons=true&theme=cobalt)
 
-![Top](https://github-readme-stats.vercel.app/api/top-langs/?username=Woomy4680-exe&layout=compact)
+![Top](https://github-readme-stats.vercel.app/api/top-langs/?username=Woomy4680-exe&layout=compact&excluse_repo=dotfiles-calculate-server&exclude_repo=dotfiles-laptop)
 
 *Note: This **doesn't** includes organizations stats*
 
