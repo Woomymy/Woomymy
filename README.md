@@ -1,6 +1,6 @@
 # Hello, I'm Woomy 👋
 
-Hello, I'm Woomy, a passionate Belgian developper that loves discovering new things.
+Hello, I'm Woomy, a passionate Belgian developper who loves discovering new things.
 
 ## Projects 🔧
 
