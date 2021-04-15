@@ -14,5 +14,5 @@ All my projects are aviable on [GitHub](https://github.com/Woomy4680-exe?tab=rep
 
 ![Stats](https://github-readme-stats.vercel.app/api?username=Woomy4680-exe&show_icons=true&theme=cobalt)
 
-![Top](https://github-readme-stats.vercel.app/api/top-langs/?username=Woomy4680-exe&layout=compact&exclude_repo=dotfiles-calculate-server&exclude_repo=dotfiles-laptop)
+![Top](https://github-readme-stats.vercel.app/api/top-langs/?username=Woomy4680-exe&layout=compact)
 
