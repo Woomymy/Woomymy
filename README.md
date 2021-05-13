@@ -12,7 +12,7 @@ All my projects are aviable on [GitHub](https://github.com/Woomymy?tab=repositor
 
 ## Stats
 
-![Stats](https://github-readme-stats.vercel.app/api?username=Woomymy&show_icons=true&theme=cobalt)
+![Stats](https://github-readme-stats.vercel.app/api?username=Woomymy&show_icons=true&theme=onedark&count_private=true)
 
-![Top](https://github-readme-stats.vercel.app/api/top-langs/?username=Woomymy&layout=compact)
+![Top](https://github-readme-stats.vercel.app/api/top-langs/?username=Woomymy&layout=compact&theme=onedark&count_private=true)
 
