@@ -4,7 +4,7 @@ Hello, I'm Woomy, a passionate Belgian developper who loves discovering new thin
 
 ## About me
 
-- You can reach me at `github@woomy.ovh` or on [Matrix](https://matrix.to/#/@woomy4680-exe:matrix.org)
+- You can reach me at [github@woomy.ovh](mailto:github@woomy.ovh) or on [Matrix](https://matrix.to/#/@woomy4680-exe:matrix.org)
 
 ## Projects
 
