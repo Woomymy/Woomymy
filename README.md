@@ -8,7 +8,7 @@ Hello, I'm Woomy, a passionate Belgian developper who loves discovering new thin
 
 ## Projects
 
-All my projects are aviable on [GitHub](https://github.com/Woomymy?tab=repositories).
+All my projects are available on [GitHub](https://github.com/Woomymy?tab=repositories).
 
 ## Stats
 
