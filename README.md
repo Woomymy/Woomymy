@@ -1,14 +1,25 @@
 # Hello, I'm Woomy 👋
 
-Hello, I'm Woomy, a passionate Belgian developper who loves discovering new things.
+Hello, I'm Woomy, a Belgian developper who loves discovering new things.
 
 ## About me
 
-- You can reach me at [woomy@woomy.be](mailto:woomy@woomy.be) or on [Matrix](https://matrix.to/#/@woomymy:matrix.org)
+- You can reach me at [woomy@woomy.be](mailto:woomy@woomy.be)
 
 ## Projects
 
 All my projects are available on [GitHub](https://github.com/Woomymy?tab=repositories).
+
+### Tecmap
+
+Map of the LETEC network (busses and trams in Wallonia).
+
+* Sources: Not yet published
+* Link: https://tecmap.woomy.be
+
+### Personal website
+
+* Link: https://woomy.be
 
 ## Stats
 
