@@ -17,7 +17,7 @@ Map of the LETEC network (busses and trams in Wallonia).
 * Sources: Not yet published
 * Link: https://tecmap.woomy.be
 
-### Personal website
+### Personal website
 
 * Link: https://woomy.be
 
