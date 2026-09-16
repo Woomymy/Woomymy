@@ -23,7 +23,7 @@ Map of the LETEC network (busses and trams in Wallonia).
 
 ## Stats
 
-![Stats](https://github-readme-stats.vercel.app/api?username=Woomymy&show_icons=true&theme=onedark&count_private=true)
+![Stats](https://github-readme-stats-extended.vercel.app/api?username=Woomymy&show_icons=true&theme=onedark&count_private=true)
 
-![Top](https://github-readme-stats.vercel.app/api/top-langs/?username=Woomymy&layout=compact&theme=onedark&count_private=true)
+![Top](https://github-readme-stats-extended.vercel.app/api/top-langs/?username=Woomymy&layout=compact&theme=onedark&count_private=true)
 
